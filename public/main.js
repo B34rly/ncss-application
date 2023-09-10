@@ -66,7 +66,7 @@ info_dict = {
         <a href="images/achievements/DukeofEdbronze2022.jpg" target='_blank'>Completed Duke of Ed Bronze (2022)<span><img src="images/achievements/DukeofEdbronze2022.jpg" alt="image"></span></a>
     </div></li>
     <li><div class="hover_img">
-        <a href="images/achievements/ABWparticipation.jpg" target='_blank'>Participation in Australian Business Week (2022)<span><img src="images/achievements/ABWParticipation.jpg" alt="image"></span></a>
+        <a href="images/achievements/ABWparticipation.jpg" target='_blank'>Participation in Australian Business Week (2022)<span><img src="images/achievements/ABWparticipation.jpg" alt="image"></span></a>
     </div></li>
     </ul>
     `],
