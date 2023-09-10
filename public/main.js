@@ -9,7 +9,7 @@ function scroll_weighting(scroll_begin) {
 info_dict = {
     "why": ["Why do I want to be part of NCSS?", "NCSS is the perfect opportunity for me to improve, and an important milestone in my technological learning experience. I've had the intention of learning cybersecurity, after being introduced to it by a personal role model, but never the time or resources to do so. As cybersecurity is the stream available in the Sydney campus, I would love to take the opportunity to learn the basics, and continue with cybersecurity well after the program."],
     "music": ["My Time as a Musician", "I was chosen to join the school band in year 4, and played percussion, including drums and glockenspiel. I practised consistently until yr 6, at which point I made the decision to play trumpet. This continued until year 7, at which point I returned to glockenspiel in the intermediate band until lockdown in year 8. After lockdown, I found it difficult to motivate myself to continue and had chosen music as a subject, and needed to make a choice. I decided to learn guitar, and it is a decision I have not regretted since - practising daily and consistently. It paid off, with a large improvement in my music grades and general wellbeing."],
-    "ist": ["IST as a Class", "I chose to study IST at the end of year 8, and it is decision I do not regret. In the first year, due to the nature of the assessment projects, I was unable to achieve particularly high - merely low 90s. However, this year the projects were all relating to programming, and despite it being done mostly in groups, in VB.NET and with a marked portfolio, I was able to achive second place and 98%. Programming is my passion, and I will fight against all odds to prove it. <br><a target='_blank' href='images/achievements/reference.pdf'>Here</a> is the reference provided by my IST teacher."],
+    "ist": ["Software Class", "I chose to study IST at the end of year 8, and it is decision I do not regret. In the first year, due to the nature of the assessment projects, I was unable to achieve particularly high - merely low 90s. However, this year the projects were all relating to programming, and despite it being done mostly in groups, in VB.NET and with a marked portfolio, I was able to achive second place and 98%. Programming is my passion, and I will fight against all odds to prove it. <br><a target='_blank' href='images/achievements/reference.pdf'>Here</a> is the reference provided by my IST teacher. \n Now, in Year 11, I chose Software Design and Development as one of my classes. I've maintained a mark I'm happy with in regards to theory tasks, and also allowed myself to shine where programming logic comes into play, achieving flawless marks for the flowchart and psuedocode of my major project (the project itself is yet to be marked)."],
     "learning": ["My Independent Learning Journey", `DT, and programming in general, has always been a major hobby of mine. A brief, inconcisive list of my experiences include 
     <ul>
     <li>Began programming in 2016</li>
@@ -29,33 +29,48 @@ info_dict = {
     <li>The <a target='_blank' href='https://beribus-games.web.app/'>website</a> I created for Beribus Games, the name all games were published under. Still incomplete, with lots of placeholder text.</li>
     <li>The <a target='_blank' href='https://play.google.com/store/search?q=pub:Beribus&c=apps'>3 android games</a> I produced and developed.</li>
     <li>My <a target='_blank' href='https://beribus-games.itch.io/'>itch.io page</a>, with multiple smaller games I created.</li>
+    <li>An <a href='https://github.com/B34rly/10ISTAayashAidenYashChatbot/'>chatbot<\a> as the Year 10 IST final project. Slightly carried my group coding wise, they assisted with portfolio and finer details. </li>
+    <li>Two small experiments with Rust/Tauri/Svelte done as Year 11 SDD classwork, one based on <a href='https://github.com/B34rly/sdd-arrays'>arrays</a> and the other on <a href='https://github.com/B34rly/sdd-form/'>input forms</a>. </li> 
     </ul>`],
-    "reports": ["Previous Reports", "<a href='images/achievements/2021yr9.pdf' target='_blank'>2021 Year 9 Yearly Report</a><br><a href='images/achievements/2022yr10.pdf' target='_blank'>2020 Year 10 Half Yearly Report</a>"],
+    "reports": ["Previous Reports", "<a href='images/achievements/2021yr9.pdf' target='_blank'>2021 Year 9 Yearly Report</a><br><a href='images/achievements/2022yr10.pdf' target='_blank'>2022 Year 10 Half Yearly Report</a><br><a href='images/achievements/Yr10Yearlyreport.pdf' target='_blank'>2022 Year 10 Yearly Report</a><br><a href='images/achievements/Y11HalfYearlySemester1Report.pdf' target='_blank'>2023 Year 11 Half Yearly Report</a>"],
     "congrats": ["Academic Achievements", `I've achieved consistent high performance in ICAS, in addition to multiple school awards.
     <ul>
     <li><div class="hover_img">
     <a href="images/achievements/icas2017science.jpg" target='_blank'>Distinction in 2017 ICAS Science<span><img src="images/achievements/icas2017science.jpg" alt="image"></span></a>
-</div></li>
-<li><div class="hover_img">
-    <a href="images/achievements/icas2018dt.jpg" target='_blank'>Distinction in 2018 ICAS Digital Technologies<span><img src="images/achievements/icas2018dt.jpg" alt="image"></span></a>
-</div></li>
-<li><div class="hover_img">
-    <a href="images/achievements/icas2018science.jpg" target='_blank'>High Distinction in 2018 ICAS Science<span><img src="images/achievements/icas2018science.jpg" alt="image"></span></a>
-</div></li>
-<li><div class="hover_img">
-    <a href="images/achievements/icas2019dt.jpg" target='_blank'>High Distinction in 2019 ICAS Digital Technologies<span><img src="images/achievements/icas2019dt.jpg" alt="image"></span></a>
-</div></li>
-<li><div class="hover_img">
-    <a href="images/achievements/icas2019science.jpg" target='_blank'>Distinction in 2019 ICAS Science<span><img src="images/achievements/icas2019science.jpg" alt="image"></span></a>
-</div></li>
-<li><div class="hover_img">
-    <a href="images/achievements/house_leader.jpg" target='_blank'>Elected as House Leader for 2022-2023<span><img src="images/achievements/house_leader.jpg" alt="image"></span></a>
-</div></li>
-<li><div class="hover_img">
-    <a href="images/achievements/100_attendance.jpg" target='_blank'>100% Attendance in the 2021 school year<span><img src="images/achievements/100_attendance.jpg" alt="image"></span></a>
-</div></li>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/icas2018dt.jpg" target='_blank'>Distinction in 2018 ICAS Digital Technologies<span><img src="images/achievements/icas2018dt.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/icas2018science.jpg" target='_blank'>High Distinction in 2018 ICAS Science<span><img src="images/achievements/icas2018science.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/icas2019dt.jpg" target='_blank'>High Distinction in 2019 ICAS Digital Technologies<span><img src="images/achievements/icas2019dt.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/icas2019science.jpg" target='_blank'>Distinction in 2019 ICAS Science<span><img src="images/achievements/icas2019science.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/house_leader.jpg" target='_blank'>Elected as House Leader for 2022-2023<span><img src="images/achievements/house_leader.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/100_attendance.jpg" target='_blank'>100% Attendance in the 2021 school year<span><img src="images/achievements/100_attendance.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/Yr10AMCdistinction.jpg" target='_blank'>Distinction in the 2022 Australian Maths Competition<span><img src="images/achievements/Yr10AMCdistinction.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/Y10firstinstem.jpg" target='_blank'>First in the Year 10 subject STEM<span><img src="images/achievements/Y10firstinstem.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/DukeofEdbronze2022.jpg" target='_blank'>Completed Duke of Ed Bronze (2022)<span><img src="images/achievements/DukeofEdbronze2022.jpg" alt="image"></span></a>
+    </div></li>
+    <li><div class="hover_img">
+        <a href="images/achievements/ABWparticipation.jpg" target='_blank'>Participation in Australian Business Week (2022)<span><img src="images/achievements/ABWParticipation.jpg" alt="image"></span></a>
+    </div></li>
+    </ul>
     `],
-    "sport": ["Sport", "Sport and physical activity is incredibly important, which has been proven by numerous scientific studies. I have kept it as a fundamental part of my life, having always been excellent at cross-country running, reaching Blacktown Zone for Cross Country in 2019 and 2021. I have been playing tennis every week since 2015, and since the beginning of the year began coaching as a part-time job. This job has improved my soft skills including confidence in speaking, group control and planning. "]
+    "sport": ["Sport", "Sport and physical activity is incredibly important, which has been proven by numerous scientific studies. I have kept it as a fundamental part of my life, having always been excellent at cross-country running, reaching Blacktown Zone for Cross Country in 2019 and 2021. I have been playing tennis every week since 2015, and since the beginning of the year began coaching as a part-time job. This job has improved my soft skills including confidence in speaking, group control and planning. <br> I've kept this up throughout year 11, but also running more often. I ran City2Surf as part of SLR, achieving a 14km time of 1h 13minutes."]
 }
 
 var overlay = false
